@@ -6,3 +6,5 @@ created some changes after push
 Really going good
 Created new branch
 did some changes
+heading for conflicts
+changes in master branch
