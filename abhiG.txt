@@ -6,5 +6,9 @@ created some changes after push
 Really going good
 Created new branch
 did some changes
+TrialM
+Changes for conflicts in new branch
+Here it gets proceeded
 heading for conflicts
 changes in master branch
+master
